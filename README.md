@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Uygar!
--  I’m interested in machine learning, game development and web development!
+-  I’m interested in machine learning, game development and backend development!
 -  I’m currently studying Computer Engineering at Boğaziçi University.
   
 
